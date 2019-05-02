@@ -1,0 +1,66 @@
+Respuestas:
+
+*Thanos
+import math
+
+def getAnglewithArea(area, radio):
+		angleDec = (area*2*180*pow(100, 2))/(pow(radio, 2)*math.pi)
+		degrees = int(angleDec)
+		minutes = int((angleDec-degrees)*60)
+		seconds = round((((angleDec-degrees)*60) - minutes), 4)
+		angle = u"{}\xb0{}'{}''".format(degrees, minutes, seconds)
+		return angle
+
+*Fibonacci
+n = int(input("Número de términos: "))
+a = 0
+b = 1
+for i in range(n):
+    print(a, end=' ')
+    a = b
+    b = a + b
+
+*Curvas
+def curvas(CN):
+    CN = list(set(CN))
+    CN.sort()
+    for x in CN:
+      if x % 200 == 0:
+          print(str(x) + ": principal")
+      elif x % 50  == 0:
+          print(str(x)  + ": secundaria")
+      else:
+          print(str(x)  + ": auxiliar")
+curvas(listaCN)
+
+*Factorial
+def factorial(num):
+    if num == 0 or num == 1:
+        return 1
+    else:
+        return num * factorial(num - 1)
+
+*Temperatura
+CC = [-20, -15, -10, -5, 0, 5, 10, 15, 20, 25, 30, 35, 40]
+i = 0
+print('  C    K     F')
+print("-"*20)
+
+while i < len(CC):
+    C = CC[i]
+    K = CC[i] + 273
+    F = (9.0/5)*C + 32
+    print('{}  {}  {}'.format(C, K, F))
+    i += 1
+
+*Usuario
+while True:
+    name = input("Usuario: ")
+    if name != 'Estudiante':
+        print("Este usuario no exite!!!, intentelo nuevamente...")
+        continue
+    
+    passwd = input('contraseña: ')
+    if passwd == 'python3':
+        break
+print('Acceso concedido')
