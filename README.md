@@ -43,7 +43,7 @@ Más información en su [blog](<https://ryali93.github.io/blog>)
     ●   Programación orientada al análisis de datos
 
 
-[Clase 2]():
+[Clase 2](https://github.com/ryali93/UNMSM_programacion2019-1/blob/master/jupyter/clase02_SintaxisPython.ipynb):
 
     TÉCNICAS DE PROGRAMACIÓN 
     ●   Programación modular
@@ -56,7 +56,7 @@ Más información en su [blog](<https://ryali93.github.io/blog>)
     ●   Identificadores, constantes y variables.
 
 
-[Clase 3]():
+[Clase 3](https://github.com/ryali93/UNMSM_programacion2019-1/blob/master/jupyter/clase03_EstructuraDatos.ipynb):
 
         SINTAXIS Y ESTRUCTURAS DE DATOS
     ●   Expresiones Aritméticas y Lógicas
@@ -66,7 +66,7 @@ Más información en su [blog](<https://ryali93.github.io/blog>)
     ●   Operaciones: Actualización, inserción, eliminación, modificación
 
 
-[Clase 4]():
+[Clase 4](https://github.com/ryali93/UNMSM_programacion2019-1/blob/master/jupyter/clase04_Condicionales.ipynb):
 
         ESTRUCTURAS DE CONTROL SELECTIVAS
     ●   La estructura simple (SI-ENTONCES)
@@ -75,7 +75,7 @@ Más información en su [blog](<https://ryali93.github.io/blog>)
     ●   Estructuras múltiples (SI-MÚLTIPLE)
 
 
-[Clase 5]():
+[Clase 5](https://github.com/ryali93/UNMSM_programacion2019-1/blob/master/jupyter/clase05_Bucles.ipynb):
 
     ESTRUCTURAS DE CONTROL REPETITIVAS
     ●   Bucles y loops
@@ -85,7 +85,7 @@ Más información en su [blog](<https://ryali93.github.io/blog>)
     ●   Instrucciones BREAK, PASS, CONTINUE
 
 
-[Clase 6]():
+[Clase 6](https://github.com/ryali93/UNMSM_programacion2019-1/blob/master/jupyter/clase06_Funciones.ipynb):
 
         FUNCIONES
     ●   Parámetros y argumentos
@@ -93,7 +93,7 @@ Más información en su [blog](<https://ryali93.github.io/blog>)
     ●   Funciones definidas por el usuario
     ●   Importación de paquetes
 
-[Clase 7]():
+[Clase 7](https://github.com/ryali93/UNMSM_programacion2019-1/blob/master/jupyter/clase07_ManipulacionArchivos.ipynb):
 
     ARCHIVOS
     ●   Lectura de archivos
@@ -105,7 +105,7 @@ Más información en su [blog](<https://ryali93.github.io/blog>)
 
     PRIMER EXAMEN PARCIAL
 
-[Clase 9]():
+[Clase 9](https://github.com/ryali93/UNMSM_programacion2019-1/blob/master/jupyter/clase09_numpy.ipynb):
 
      ANÁLISIS DE DATOS
     ●   Introducción a Numpy.
@@ -114,7 +114,7 @@ Más información en su [blog](<https://ryali93.github.io/blog>)
     ●   Introducción a Pandas.
     ●   Matrices y Data Frames
 
-[Clase 10]():
+[Clase 10](https://github.com/ryali93/UNMSM_programacion2019-1/blob/master/jupyter/clase10_pandas.ipynb):
 
     TRATAMIENTO DE DATOS
     ●   Creación de data.frames
