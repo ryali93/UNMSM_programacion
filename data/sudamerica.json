@@ -1,0 +1,1031 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.410003662109347,
+          -51.709999084472628
+        ]
+      },
+      "properties": {
+        "FID": 0,
+        "CIUDAD": "Río Gallegos",
+        "PAIS": "Argentina",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.499999999999972,
+          -45.83000183105473
+        ]
+      },
+      "properties": {
+        "FID": 1,
+        "CIUDAD": "Comodoro Rivadavia",
+        "PAIS": "Argentina",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.999999999999943,
+          -41.479999542236364
+        ]
+      },
+      "properties": {
+        "FID": 2,
+        "CIUDAD": "Puerto Montt",
+        "PAIS": "Chile",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.274066925048828,
+          -38.725273132324219
+        ]
+      },
+      "properties": {
+        "FID": 3,
+        "CIUDAD": "Bahía Blanca",
+        "PAIS": "Argentina",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.851638793945284,
+          -36.883296966552777
+        ]
+      },
+      "properties": {
+        "FID": 4,
+        "CIUDAD": "Concepción",
+        "PAIS": "Chile",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.169998168945312,
+          -34.919998168945291
+        ]
+      },
+      "properties": {
+        "FID": 5,
+        "CIUDAD": "Montevideo",
+        "PAIS": "Uruguay",
+        "CAPITAL": "S"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.409591674804688,
+          -34.665401458740249
+        ]
+      },
+      "properties": {
+        "FID": 6,
+        "CIUDAD": "Buenos Aires",
+        "PAIS": "Argentina",
+        "CAPITAL": "S"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.64751434326169,
+          -33.475025177001967
+        ]
+      },
+      "properties": {
+        "FID": 7,
+        "CIUDAD": "Santiago",
+        "PAIS": "Chile",
+        "CAPITAL": "S"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.663940429687443,
+          -32.93773651123049
+        ]
+      },
+      "properties": {
+        "FID": 8,
+        "CIUDAD": "Rosario",
+        "PAIS": "Argentina",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.299339294433565,
+          -32.900001525878871
+        ]
+      },
+      "properties": {
+        "FID": 9,
+        "CIUDAD": "Valparaíso",
+        "PAIS": "Chile",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.829734802246094,
+          -32.897438049316378
+        ]
+      },
+      "properties": {
+        "FID": 10,
+        "CIUDAD": "Mendoza",
+        "PAIS": "Argentina",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.697841644287109,
+          -31.616897583007834
+        ]
+      },
+      "properties": {
+        "FID": 11,
+        "CIUDAD": "Santa Fé",
+        "PAIS": "Argentina",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.179855346679631,
+          -31.316278457641559
+        ]
+      },
+      "properties": {
+        "FID": 12,
+        "CIUDAD": "Córdoba",
+        "PAIS": "Argentina",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.708774566650419,
+          -31.305152893066442
+        ]
+      },
+      "properties": {
+        "FID": 13,
+        "CIUDAD": "Salta",
+        "PAIS": "Uruguay",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.019996643066378,
+          -30.999999999999964
+        ]
+      },
+      "properties": {
+        "FID": 14,
+        "CIUDAD": "Coquimbo",
+        "PAIS": "Chile",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.207988739013643,
+          -30.03953361511229
+        ]
+      },
+      "properties": {
+        "FID": 15,
+        "CIUDAD": "Porto Alegre",
+        "PAIS": "Brasil",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.900001525878935,
+          -27.399999618530302
+        ]
+      },
+      "properties": {
+        "FID": 16,
+        "CIUDAD": "Resistencia",
+        "PAIS": "Argentina",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.284507751464787,
+          -25.430479049682653
+        ]
+      },
+      "properties": {
+        "FID": 17,
+        "CIUDAD": "Curitiba",
+        "PAIS": "Brasil",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.669998168945284,
+          -25.219999313354528
+        ]
+      },
+      "properties": {
+        "FID": 18,
+        "CIUDAD": "Asunción",
+        "PAIS": "Paraguay",
+        "CAPITAL": "S"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.225448608398437,
+          -23.832536697387674
+        ]
+      },
+      "properties": {
+        "FID": 19,
+        "CIUDAD": "Antofagasta",
+        "PAIS": "Chile",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.622898101806584,
+          -23.581304550170934
+        ]
+      },
+      "properties": {
+        "FID": 20,
+        "CIUDAD": "Sao Paulo",
+        "PAIS": "Brasil",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.455177307128849,
+          -22.721572875976563
+        ]
+      },
+      "properties": {
+        "FID": 21,
+        "CIUDAD": "Rio de Janeiro",
+        "PAIS": "Brasil",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.91326141357419,
+          -20.260000228881836
+        ]
+      },
+      "properties": {
+        "FID": 22,
+        "CIUDAD": "Iquique",
+        "PAIS": "Chile",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.909069061279297,
+          -19.851720809936516
+        ]
+      },
+      "properties": {
+        "FID": 23,
+        "CIUDAD": "Belo Horizonte",
+        "PAIS": "Brasil",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.255882263183537,
+          -19.04213523864744
+        ]
+      },
+      "properties": {
+        "FID": 24,
+        "CIUDAD": "Sucre",
+        "PAIS": "Bolívia",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.197418212890625,
+          -17.788791656494141
+        ]
+      },
+      "properties": {
+        "FID": 25,
+        "CIUDAD": "Santa Cruz de La Sierra",
+        "PAIS": "Bolívia",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.254810333251953,
+          -16.726699829101577
+        ]
+      },
+      "properties": {
+        "FID": 26,
+        "CIUDAD": "Goiania",
+        "PAIS": "Brasil",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.146247863769531,
+          -16.499006271362319
+        ]
+      },
+      "properties": {
+        "FID": 27,
+        "CIUDAD": "La Paz",
+        "PAIS": "Bolívia",
+        "CAPITAL": "S"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.522743225097685,
+          -16.39753913879396
+        ]
+      },
+      "properties": {
+        "FID": 28,
+        "CIUDAD": "Arequipa",
+        "PAIS": "Perú",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.89774703979495,
+          -15.792109489440875
+        ]
+      },
+      "properties": {
+        "FID": 29,
+        "CIUDAD": "Brasilia",
+        "PAIS": "Brasil",
+        "CAPITAL": "S"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.049999237060518,
+          -15.550000190734892
+        ]
+      },
+      "properties": {
+        "FID": 30,
+        "CIUDAD": "Cuiaba",
+        "PAIS": "Brasil",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.860000610351534,
+          -13.600000381469712
+        ]
+      },
+      "properties": {
+        "FID": 31,
+        "CIUDAD": "Cuzco",
+        "PAIS": "Perú",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.479999542236328,
+          -12.600256919860797
+        ]
+      },
+      "properties": {
+        "FID": 32,
+        "CIUDAD": "Salvador",
+        "PAIS": "Brasil",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.82355499267581,
+          -12.067996025085478
+        ]
+      },
+      "properties": {
+        "FID": 33,
+        "CIUDAD": "Lima",
+        "PAIS": "Perú",
+        "CAPITAL": "S"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.83563232421875,
+          -12.043540000915527
+        ]
+      },
+      "properties": {
+        "FID": 34,
+        "CIUDAD": "Callao",
+        "PAIS": "Perú",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.453147888183565,
+          -8.9301004409789755
+        ]
+      },
+      "properties": {
+        "FID": 35,
+        "CIUDAD": "Chimbote",
+        "PAIS": "Perú",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.900001525878906,
+          -8.7500000000000426
+        ]
+      },
+      "properties": {
+        "FID": 36,
+        "CIUDAD": "Porto Velho",
+        "PAIS": "Brasil",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.914638519287053,
+          -8.0851678848266459
+        ]
+      },
+      "properties": {
+        "FID": 37,
+        "CIUDAD": "Recife",
+        "PAIS": "Brasil",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79,
+          -7.9299998283386373
+        ]
+      },
+      "properties": {
+        "FID": 38,
+        "CIUDAD": "Trujillo",
+        "PAIS": "Perú",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.830001831054716,
+          -6.6199998855590394
+        ]
+      },
+      "properties": {
+        "FID": 39,
+        "CIUDAD": "Chiclayo",
+        "PAIS": "Perú",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.25,
+          -5.780000209808378
+        ]
+      },
+      "properties": {
+        "FID": 40,
+        "CIUDAD": "Natal",
+        "PAIS": "Brasil",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.588901519775391,
+          -3.7833218574523784
+        ]
+      },
+      "properties": {
+        "FID": 41,
+        "CIUDAD": "Fortaleza",
+        "PAIS": "Brasil",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.191490173339872,
+          -3.7528953552246094
+        ]
+      },
+      "properties": {
+        "FID": 42,
+        "CIUDAD": "Iquitos",
+        "PAIS": "Perú",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.014617919921847,
+          -3.1223049163818501
+        ]
+      },
+      "properties": {
+        "FID": 43,
+        "CIUDAD": "Manaus",
+        "PAIS": "Brasil",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.610000610351591,
+          -2.4600000381469442
+        ]
+      },
+      "properties": {
+        "FID": 44,
+        "CIUDAD": "Santarem",
+        "PAIS": "Brasil",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.909393310546847,
+          -2.2038161754608154
+        ]
+      },
+      "properties": {
+        "FID": 45,
+        "CIUDAD": "Guayaquil",
+        "PAIS": "Ecuador",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.31627655029294,
+          -1.6053290367126181
+        ]
+      },
+      "properties": {
+        "FID": 46,
+        "CIUDAD": "Belem",
+        "PAIS": "Brasil",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.52428436279294,
+          -0.22949813306327371
+        ]
+      },
+      "properties": {
+        "FID": 47,
+        "CIUDAD": "Quito",
+        "PAIS": "Ecuador",
+        "CAPITAL": "S"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.499999999999943,
+          2.7499999999999858
+        ]
+      },
+      "properties": {
+        "FID": 48,
+        "CIUDAD": "Boa Vista",
+        "PAIS": "Brasil",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.522438049316406,
+          3.4568552970886088
+        ]
+      },
+      "properties": {
+        "FID": 49,
+        "CIUDAD": "Cali",
+        "PAIS": "Colombia",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.080513000488224,
+          4.6302199363708496
+        ]
+      },
+      "properties": {
+        "FID": 50,
+        "CIUDAD": "Bogotá",
+        "PAIS": "Colombia",
+        "CAPITAL": "S"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.400001525878878,
+          4.9200000762939879
+        ]
+      },
+      "properties": {
+        "FID": 51,
+        "CIUDAD": "Cayena",
+        "PAIS": "Guayana Francesa",
+        "CAPITAL": "S"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.592033386230469,
+          6.2411465644836426
+        ]
+      },
+      "properties": {
+        "FID": 52,
+        "CIUDAD": "Medellín",
+        "PAIS": "Colombia",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.169998168945284,
+          6.7699999809264853
+        ]
+      },
+      "properties": {
+        "FID": 53,
+        "CIUDAD": "Georgetown",
+        "PAIS": "Guyana",
+        "CAPITAL": "S"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.005455017089844,
+          7.5766010284423828
+        ]
+      },
+      "properties": {
+        "FID": 54,
+        "CIUDAD": "San Cristóbal",
+        "PAIS": "Venezuela",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.339195251464844,
+          10.065665245056195
+        ]
+      },
+      "properties": {
+        "FID": 55,
+        "CIUDAD": "Barquisimeto",
+        "PAIS": "Venezuela",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.003112792968778,
+          10.178220748901353
+        ]
+      },
+      "properties": {
+        "FID": 56,
+        "CIUDAD": "Valencia",
+        "PAIS": "Venezuela",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.898284912109403,
+          10.496048927307115
+        ]
+      },
+      "properties": {
+        "FID": 57,
+        "CIUDAD": "Caracas",
+        "PAIS": "Venezuela",
+        "CAPITAL": "S"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.63714599609375,
+          10.645043373107924
+        ]
+      },
+      "properties": {
+        "FID": 58,
+        "CIUDAD": "Maracaibo",
+        "PAIS": "Venezuela",
+        "CAPITAL": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.680000305175724,
+          11.014294624328613
+        ]
+      },
+      "properties": {
+        "FID": 59,
+        "CIUDAD": "Barranquilla",
+        "PAIS": "Colombia",
+        "CAPITAL": "N"
+      }
+    }
+  ]
+}
